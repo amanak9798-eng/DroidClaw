@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DroidClaw</string>
+    <string name="accessibility_service_description">DroidClaw uses accessibility to read screen content and perform gestures on behalf of the on-device AI agent.</string>
+</resources>
