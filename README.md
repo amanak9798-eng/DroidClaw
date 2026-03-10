@@ -44,7 +44,7 @@ From reading your screen using Android's Accessibility APIs to simulating taps a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/droidclaw.git
+   git clone https://github.com/amanak9798-eng/DroidClaw.git
    cd droidclaw
    ```
 
@@ -110,7 +110,7 @@ DroidClaw is built with a modular architecture:
 
 ### How to Help
 Please read our [**CONTRIBUTING.md**](CONTRIBUTING.md) guide before submitting a PR.
-- Check the [Issues](https://github.com/yourusername/droidclaw/issues) tab for `good first issue` tags.
+- Check the [Issues](https://github.com/amanak9798-eng/droidclaw/issues) tab for `good first issue` tags.
 - Join our community discussions to propose features.
 
 ## 📄 License
@@ -119,3 +119,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 *Built with ❤️ for the open-source Android community.*
+
